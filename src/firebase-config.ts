@@ -11,7 +11,7 @@ import { getStorage } from "firebase/storage";
 //   appId: "1:941617256767:web:fffc18676784ebdad31b8a",
 //   measurementId: "G-77WWJE7CNG",
 // };
-const firebaseConfig = {
+export const firebaseConfig = {
   apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
   authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN,
   projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID,
