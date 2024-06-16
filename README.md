@@ -56,6 +56,6 @@
   <img src="https://img.shields.io/badge/-MUI-000000.svg?logo=MUI&style=for-the-badge">
 
   <!-- バックエンドのフレームワーク一覧 -->
-  <img src="htスポット//img.shields.io/badge/-FireBase-000000.svg?logo=FireBase&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-FireBase-000000.svg?logo=FireBase&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Vercel-000000.svg?logo=Vercel&style=for-the-badge">
   
