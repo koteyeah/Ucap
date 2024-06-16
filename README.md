@@ -24,6 +24,7 @@
 
 ### 一覧表示
 マップ上にlike及びマッチしたスポットを表示します。
+
 ![post](https://github.com/koteyeah/Ucap/assets/166697444/d2f2b626-a6a4-4bf7-ab3e-900da94dca3f)
 
 ## DEMO
