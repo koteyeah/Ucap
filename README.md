@@ -12,11 +12,19 @@
 
 このアプリは、就活支援サイト「サポーターズ」主催の技育CAMPハッカソン2024Vol.6で作成しました。
 
-##機能
-###探索
+## 機能
+### 探索
+左右にスワイプまたは下部のボタンをタップして探索します。
+写真をタップすることで詳細を確認できます。
+![metainfo](https://github.com/koteyeah/Ucap/assets/166697444/930ce8c5-0252-48f6-9311-a458394c30d2)
 
-###マッチ
-###一覧表示
+### マッチ
+パートナーと同じ場所をlikeしたことをアニメーションで知らせます。
+![match](https://github.com/koteyeah/Ucap/assets/166697444/de04be4a-7e31-4a9c-87ed-ac9a3a1da0a2)
+
+### 一覧表示
+マップ上にlike及びマッチしたスポットを表示します。
+![post](https://github.com/koteyeah/Ucap/assets/166697444/d2f2b626-a6a4-4bf7-ab3e-900da94dca3f)
 
 ## DEMO
 デモページはこちら　[UCap](https://ucap-eight.vercel.app)
