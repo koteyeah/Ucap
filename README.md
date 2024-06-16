@@ -24,7 +24,10 @@
 
 ### 一覧表示
 マップ上にlike及びマッチしたスポットを表示します。
+![list](https://github.com/koteyeah/Ucap/assets/166697444/baa4c7a0-5d8b-45d7-80fe-f5d2cc68872c)
 
+### 投稿
+おでかけしたスポットの写真、住所、コメントを投稿します。
 ![post](https://github.com/koteyeah/Ucap/assets/166697444/d2f2b626-a6a4-4bf7-ab3e-900da94dca3f)
 
 ## DEMO
@@ -51,6 +54,6 @@
   <img src="https://img.shields.io/badge/-MUI-000000.svg?logo=MUI&style=for-the-badge">
 
   <!-- バックエンドのフレームワーク一覧 -->
-  <img src="https://img.shields.io/badge/-FireBase-000000.svg?logo=FireBase&style=for-the-badge">
+  <img src="htスポット//img.shields.io/badge/-FireBase-000000.svg?logo=FireBase&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Vercel-000000.svg?logo=Vercel&style=for-the-badge">
   
